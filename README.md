@@ -6,7 +6,8 @@ install steps [visit](https://github.com/firatbozkaya/Turtlebot2-On-Melodic_racl
 # Gmapping Doc
  [visit](http://wiki.ros.org/turtlebot_navigation/Tutorials/Build%20a%20map%20with%20SLAM)
 # For Waypoint Dep
-git clone https://github.com/firatbozkaya/waypoints_raclab.git
+1 - cd raclab_ws/src <br>
+2 - git clone https://github.com/firatbozkaya/waypoints_raclab.git
 
 
 
