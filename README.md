@@ -8,6 +8,10 @@ install steps [visit](https://github.com/firatbozkaya/Turtlebot2-On-Melodic_racl
 # For Waypoint Dep
 1 - cd raclab_ws/src <br>
 2 - git clone https://github.com/firatbozkaya/waypoints_raclab.git
+<br>
+3 - cd ..
+<br>
+4 - catkin_make
 
 
 
