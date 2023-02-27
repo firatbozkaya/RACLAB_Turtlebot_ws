@@ -21,6 +21,6 @@ First for lidar > sudo chmod 777 /dev/tty*<br>
 1 - roscore <br>
 2 - rosrun waypoints waypoints_server <br>
 3 - roslaunch rplidar_ros rplidar.launch <br>
-4 - roslaunch turtlebot_navigation amcl_demo.launch map_file:='~/raclab_ws/map4.yaml' <br>
+4 - roslaunch turtlebot_navigation amcl_demo.launch map_file:='/home/raclab/raclab_ws/map4.yaml' <br>
 
 # RACLAB [visit](https://raclab.org) website <br>
