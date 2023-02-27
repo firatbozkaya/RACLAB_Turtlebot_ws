@@ -1,3 +1,6 @@
+# RACLAB_Turtlebot
+RACLAB Turtlebot Waypoint Navigation
+
 # First Steps
 install steps [visit](https://github.com/firatbozkaya/Turtlebot2-On-Melodic_raclab)
 # Gmapping Doc
@@ -6,8 +9,7 @@ install steps [visit](https://github.com/firatbozkaya/Turtlebot2-On-Melodic_racl
 git clone https://github.com/firatbozkaya/waypoints_raclab.git
 
 
-# RACLAB_Turtlebot
-RACLAB Turtlebot Waypoint Navigation
+
 
 # Navigation Code Steps <br>
 1 - roscore <br>
