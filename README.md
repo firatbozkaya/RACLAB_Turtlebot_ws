@@ -1,7 +1,7 @@
 # RACLAB_Turtlebot
-RACLAB Turtlebot Waypoint Navigation
-Example Article [visit](https://core.ac.uk/download/pdf/387175328.pdf)
-Example amcl parameters [visit](https://github.com/firatbozkaya/RACLAB_Turtlebot_ws/blob/main/parameters_for_turtlebot_navigation.png)
+RACLAB Turtlebot Waypoint Navigation <br>
+Example Article [visit](https://core.ac.uk/download/pdf/387175328.pdf) <br>
+Example amcl parameters [visit](https://github.com/firatbozkaya/RACLAB_Turtlebot_ws/blob/main/parameters_for_turtlebot_navigation.png) <br>
 
 
 # First Steps
