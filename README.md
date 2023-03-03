@@ -26,4 +26,5 @@ First for lidar > sudo chmod 777 /dev/tty*<br>
 3 - roslaunch rplidar_ros rplidar.launch <br>
 4 - roslaunch turtlebot_navigation amcl_demo.launch map_file:='/home/raclab/raclab_ws/map4.yaml' <br>
 
+-odom change odom2 for amcl with gmapping
 # RACLAB [visit](https://raclab.org) website <br>
